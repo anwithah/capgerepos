@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="withdrawal" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-10-20T10:27:52" hostname="DIN76000542" time="0.172">
+  <properties/>
+  <testcase name="test_withdrawal_method" classname="withdrawal" time="0.172"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
